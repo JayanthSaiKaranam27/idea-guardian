@@ -37,7 +37,7 @@ This ensures no idea gets lost, no task falls through the cracks, and the teamâ€
 
 ## Instructions
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/YOUR_USERNAME/idea-guardian.git
    cd idea-guardian
 
