@@ -19,7 +19,7 @@ This ensures no idea gets lost, no task falls through the cracks, and the team�
 
 ## Demo
 - 🎥 [Video Demo](https://your-video-link)
-- 📑 [Presentation](https://your-presentation-link)
+- 📑 [Presentation](https://docs.google.com/presentation/d/1ppZfFea2SzJPey_Y4wzsHcaJ9ayXE-OP/edit?usp=sharing&ouid=115508585868609066126&rtpof=true&sd=true)
 - 🌐 [Live Demo](https://your-demo-link)
 
 ---
